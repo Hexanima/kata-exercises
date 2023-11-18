@@ -1571,6 +1571,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"fizzBuzz@workspace:katas/fizzBuzz":
+  version: 0.0.0-use.local
+  resolution: "fizzBuzz@workspace:katas/fizzBuzz"
+  dependencies:
+    "@types/jest": "npm:^29.5.8"
+    jest: "npm:^29.7.0"
+    ts-jest: "npm:^29.1.1"
+    typescript: "npm:^5.2.2"
+  languageName: unknown
+  linkType: soft
+
 "foreground-child@npm:^3.1.0":
   version: 3.1.1
   resolution: "foreground-child@npm:3.1.1"
